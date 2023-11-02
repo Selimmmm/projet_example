@@ -1,1 +1,1 @@
-print('loving Python')
+print("loving Python")
